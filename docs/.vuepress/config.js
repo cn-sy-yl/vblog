@@ -1,6 +1,7 @@
 module.exports = {
   "title": "七日",
   "description": "每一个不曾起舞的日子，都是对生命的辜负。",
+  "base": "/vblog/",
   "dest": "public",
   "head": [
     [
