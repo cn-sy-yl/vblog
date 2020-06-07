@@ -1,6 +1,6 @@
 module.exports = {
   "title": "七日",
-  "description": "Enjoy when you can, and endure when you must.",
+  "description": "每一个不曾起舞的日子，都是对生命的辜负。",
   "dest": "public",
   "head": [
     [
@@ -56,22 +56,17 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
-      },
-      {
         "title": "vuepress-theme-reco",
         "desc": "A simple and beautiful vuepress Blog & Doc theme.",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
+    "noFoundPageByTencent": false,
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
-    "sidebar": "auto",
+    "sidebar": 'auto',
     "lastUpdated": "Last Updated",
     "author": "杨晨",
     "authorAvatar": "/avatar.png",
